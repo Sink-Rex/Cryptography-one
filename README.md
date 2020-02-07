@@ -26,7 +26,7 @@
 
 - ### Cyclic group
 
-## 公钥密码： 
+## 3. 公钥密码： 
 
 - ### Trapdoor One-way function
 
